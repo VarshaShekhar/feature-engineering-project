@@ -1,5 +1,6 @@
 # feature-engineering-project
 ---
+![Project Thumbnail](thumbnail.png)
 
 ## 📄 Project Description
 
