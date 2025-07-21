@@ -158,5 +158,15 @@ This model lays the groundwork for future upgrades, including:
 * Scaling to the full dataset using **distributed computing** or **cloud platforms**
 
 ---
+## 📁 Project Structure
 
+- `Feature_Engineering.ipynb` – Jupyter notebook  
+- `Feature_Engineering.pdf` – Printable version  
+
+---
+
+## 🤝 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/varsha-shekhar)
+- 📧 varshaiyer96@gmail.com
 
