@@ -169,5 +169,5 @@ This model lays the groundwork for future upgrades, including:
 ## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/varsha-shekhar)
-- 📧 varshaiyer96@gmail.com
+- [Gmail📧](varshaiyer96@gmail.com)
 
