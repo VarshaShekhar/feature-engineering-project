@@ -1,4 +1,7 @@
-# feature-engineering-project
+# 💰 Mercari Product Price Prediction — Feature Engineering & Regression
+
+A machine learning project to predict product prices on the Mercari marketplace using **structured listing features**. Focused on building a **lightweight, interpretable Linear Regression model** with strong feature engineering, preprocessing, and evaluation.
+
 ---
 ![Project Thumbnail](thumbnail.png)
 
@@ -159,10 +162,17 @@ This model lays the groundwork for future upgrades, including:
 * Scaling to the full dataset using **distributed computing** or **cloud platforms**
 
 ---
+
 ## 📁 Project Structure
 
 - `Feature_Engineering.ipynb` – Jupyter notebook  
 - `Feature_Engineering.pdf` – Printable version  
+
+---
+
+## 🧾 Note
+
+This project is intended for **learning and demonstration purposes**.
 
 ---
 
